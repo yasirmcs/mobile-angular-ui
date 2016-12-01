@@ -14,7 +14,8 @@
     "dist/fonts/fontawesome-webfont.eot",
     "dist/fonts/fontawesome-webfont.svg",
     "dist/fonts/fontawesome-webfont.ttf",
-    "dist/fonts/fontawesome-webfont.woff"
+    "dist/fonts/fontawesome-webfont.woff",
+    "dist/fonts/fontawesome-webfont.woff2"
   ],
   "keywords": [
     "mobile-angular-ui",
@@ -31,11 +32,5 @@
     "bower_components",
     "test",
     "ROADMAP.tasks"
-  ],
-  "devDependencies": {
-    "font-awesome": "4",
-    "bootstrap": "3",
-    "fastclick": "1",
-    "overthrow": "0.7"
-  }
+  ]
 }
